@@ -11,5 +11,5 @@
 
 # 联系
 
-五笔小筑：https://wubi98.gitee.io/
-邮箱：wubixiaozhu@126.com
+- 五笔小筑：https://wubi98.gitee.io/
+- 邮箱：wubixiaozhu@126.com
