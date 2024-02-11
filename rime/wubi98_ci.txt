@@ -1,0 +1,42 @@
+# Rime table
+#@/db_name	wubi98_ci
+#@/db_type	tabledb
+#@/rime_version	1.7.3
+#@/tick	92
+工	aaa	1
+工	aaaa	1
+阻	begg	1
+又	cccc	1
+在	d	4
+大	dd	2
+磊	ddd	11
+大	dddd	18
+大厦	dddd	1
+成	dn	1
+其	dwu	1
+须	ed	2
+爱	epd	3
+圭	fff	1
+雨	fghy	1
+无	fq	1
+果	js	5
+中	k	1
+品	kkk	1
+口	kkkk	4
+呆	ks	1
+回骂	lkkk	1
+田	lll	1
+田	llll	1
+已	n	2
+那	ng	1
+情	nge	3
+火	oooo	3
+㰁	sdd	1
+椅套	sddd	1
+御	ttg	1
+发	v	1
+如	vk	9
+迢迢	vkvk	1
+介	wj	1
+风雨	wrfg	1
+纰	xxx	2

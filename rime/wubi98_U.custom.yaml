@@ -1,0 +1,13 @@
+patch:
+  switches:
+  - name: ascii_mode
+    states: [ 中,英 ]
+    reset: 1
+  - name: zh_trad
+    reset: 0
+    states: [ 简,繁 ]
+  - name: 98wb_spelling_rk
+    reset: 1    
+    states: [ 隐,显 ]    
+
+

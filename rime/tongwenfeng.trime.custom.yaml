@@ -1,0 +1,4 @@
+patch:
+  "style/candidate_font": 98WB-2.otf #候選字型
+  "style/hanb_font": 98WB-2.otf #擴充字型
+  "style/comment_font": 98WB-2.otf #opencc注释字型

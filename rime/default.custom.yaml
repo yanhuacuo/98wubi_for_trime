@@ -1,0 +1,11 @@
+customization:
+  distribution_code_name: trime
+  distribution_version: "v3.2.15-69-g62b556ff-20231225"
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Sat Dec 30 09:38:50 2023"
+  rime_version: 1.9.0
+patch:
+  schema_list:
+    - {schema: wubi98_ci}
+    - {schema: wubi98_U}
+    - {schema: py}
