@@ -2,41 +2,48 @@
 #@/db_name	wubi98_ci
 #@/db_type	tabledb
 #@/rime_version	1.7.3
-#@/tick	92
+#@/tick	141
+式	aa	1
 工	aaa	1
 工	aaaa	1
 阻	begg	1
 又	cccc	1
-在	d	4
-大	dd	2
-磊	ddd	11
-大	dddd	18
+在	d	10
+友	dc	1
+大	dd	7
+磊	ddd	18
+大	dddd	30
 大厦	dddd	1
+奎	dfff	1
 成	dn	1
 其	dwu	1
 须	ed	2
-爱	epd	3
-圭	fff	1
+月	eeee	1
+爱	epd	4
+圭	fff	2
 雨	fghy	1
 无	fq	1
-果	js	5
+果	js	6
 中	k	1
-品	kkk	1
-口	kkkk	4
+品	kkk	2
+口	kkkk	5
 呆	ks	1
-回骂	lkkk	1
+回骂	lkkk	2
 田	lll	1
-田	llll	1
+田	llll	3
 已	n	2
 那	ng	1
-情	nge	3
-火	oooo	3
-㰁	sdd	1
+情	nge	4
+燥	ok	1
+火	oooo	4
+㰁	sdd	2
 椅套	sddd	1
+森	sss	2
 御	ttg	1
 发	v	1
 如	vk	9
 迢迢	vkvk	1
+灵	vo	1
 介	wj	1
 风雨	wrfg	1
 纰	xxx	2

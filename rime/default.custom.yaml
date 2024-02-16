@@ -1,8 +1,8 @@
 customization:
   distribution_code_name: trime
-  distribution_version: "v3.2.15-69-g62b556ff-20231225"
+  distribution_version: "nightly-2-g48da4e4a-20240206"
   generator: "Rime::SwitcherSettings"
-  modified_time: "Sat Dec 30 09:38:50 2023"
+  modified_time: "Fri Feb 16 02:33:56 2024"
   rime_version: 1.9.0
 patch:
   schema_list:
