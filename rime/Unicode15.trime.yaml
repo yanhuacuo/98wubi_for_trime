@@ -35,14 +35,14 @@ style:
   layout: #懸浮窗口設置
     position: fixed#位置：left|right|left_up|right_up|fixed|bottom_left|bottom_right|top_left|top_right(left、right需要>=Android5.0)
     min_length: 1 #最小詞長
-    max_length: 10 #超過字數則換行
+    max_length: 220 #超過字數則換行
     sticky_lines: 0 #固頂行數
     sticky_lines_land: 0 #横屏模式下的固顶行数
     max_entries: 9 #最大詞條數
     min_check: 3 #只要前n个候选词有长度大于等于min_length的词，就会把长度符合以及之前的词全部加到悬浮窗内。
     all_phrases: false #所有滿足條件的詞語都顯示在窗口
     border: 2 #邊框寬度
-    max_width: 1000 #最大寬度，超過則自動換行
+    max_width: 1600 #最大寬度，超過則自動換行
     max_height: 800 #最大高度
     min_width: 40 #最小寬度
     min_height: 0 #最小高度
